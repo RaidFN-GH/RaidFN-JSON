@@ -1,0 +1,204 @@
+{
+  "apiKey": "0a55f293-f0bb3f67-f29e0ef6-78d294f7",
+  "EveryCosmetic": true,
+  "closeFortnite": false,
+  "Playlist": "playlist_nobuildbr_squad",
+  "WebSocketLogging": false,
+  "updateSkip": false,
+  "InviteExploit": {
+    "enabled": false,
+    "users": [
+      "d54651a9621e44cb849446170bb8ebbe",
+      "640f135544834b249f2805a8d14d1a0b",
+      "069875c9f7024671968b7ddf59c22264"
+    ]
+  },
+  "saved": {
+    "presets": {
+      "character": {
+        "1": {
+          "presetType": "CosmeticLoadout:LoadoutSchema_Character",
+          "presetId": 1,
+          "slots": [
+            {
+              "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Character",
+              "equipped_item": "AthenaCharacter:cid_028_athena_commando_f",
+              "customization_info": [
+                {
+                  "channel_tag": "Material",
+                  "variant_tag": "Mat1"
+                }
+              ]
+            },
+            {
+              "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Backpack"
+            },
+            {
+              "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Pickaxe",
+              "equipped_item": "AthenaPickaxe:defaultpickaxe"
+            },
+            {
+              "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Glider",
+              "equipped_item": "AthenaGlider:defaultglider"
+            },
+            {
+              "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Contrails"
+            },
+            {
+              "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Aura",
+              "equipped_item": "SparksAura:sparksaura_default"
+            }
+          ]
+        },
+        "4": {
+          "presetType": "CosmeticLoadout:LoadoutSchema_Character",
+          "presetId": 4,
+          "slots": [
+            {
+              "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Character",
+              "equipped_item": "AthenaCharacter:cid_028_athena_commando_f",
+              "customization_info": [
+                {
+                  "channel_tag": "Material",
+                  "variant_tag": "Mat1"
+                }
+              ]
+            },
+            {
+              "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Backpack",
+              "equipped_item": "AthenaBackpack:bid_105_ghostportal",
+              "customization_info": [
+                {
+                  "channel_tag": "Particle",
+                  "variant_tag": "Particle1"
+                }
+              ]
+            },
+            {
+              "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Pickaxe",
+              "equipped_item": "AthenaPickaxe:pickaxe_id_508_historianmale_6bqsw"
+            },
+            {
+              "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Glider",
+              "equipped_item": "AthenaGlider:defaultglider"
+            },
+            {
+              "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Contrails"
+            },
+            {
+              "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Aura",
+              "equipped_item": "SparksAura:sparksaura_default"
+            }
+          ]
+        }
+      },
+      "emotes": {},
+      "lobby": {},
+      "wraps": {},
+      "sports": {},
+      "suv": {},
+      "instruments": {},
+      "jam": {}
+    },
+    "favorite": [
+      "AthenaDance:EID_KPopDance03",
+      "AthenaDance:EID_ElegantLily",
+      "AthenaCharacter:CID_636_Athena_Commando_M_GalileoGondola_78MFZ",
+      "AthenaDance:EID_Floss",
+      "AthenaDance:EID_HipHopS7",
+      "AthenaDance:EID_TheShow",
+      "AthenaDance:EID_TakeTheL",
+      "AthenaDance:EID_GoodVibes",
+      "AthenaDance:EID_Robot",
+      "AthenaDance:EID_RideThePony_Athena",
+      "AthenaDance:EID_RideThePonyTwo",
+      "AthenaDance:EID_YoureAwesome",
+      "AthenaDance:EID_BluePhoto_JSG4D",
+      "AthenaDance:EID_KingEagle",
+      "AthenaDance:EID_DuckTeacher_9IPLU",
+      "AthenaDance:EID_Undead",
+      "AthenaDance:EID_JellyFrog",
+      "AthenaDance:EID_KitchenNavigator",
+      "AthenaDance:EID_Griddles",
+      "AthenaDance:EID_SandwichBop",
+      "AthenaDance:EID_CycloneHeadBang",
+      "AthenaDance:EID_Depart",
+      "AthenaDance:EID_Spectacular",
+      "AthenaDance:EID_Quantity_39X5D",
+      "AthenaDance:EID_KeeperDreamChorus",
+      "AthenaDance:EID_JanuaryBop",
+      "AthenaDance:EID_Jiggle",
+      "AthenaDance:EID_Goodbye_Upbeat",
+      "AthenaDance:EID_SquishyMedley",
+      "AthenaDance:EID_LasagnaDance",
+      "AthenaDance:EID_Sunlit",
+      "AthenaDance:EID_Outburst",
+      "AthenaDance:EID_Bendy",
+      "AthenaDance:EID_Fresh",
+      "AthenaDance:EID_Zippy",
+      "AthenaDance:EID_TapShuffle",
+      "AthenaDance:EID_WIR",
+      "AthenaDance:EID_Hype",
+      "AthenaDance:EID_IDontKnow",
+      "AthenaDance:EID_GothDance",
+      "AthenaDance:EID_PlayerEleven",
+      "AthenaDance:EID_SlowClap",
+      "AthenaDance:EID_Dab",
+      "AthenaDance:EID_Aerobics",
+      "AthenaDance:EID_SecurityGuard",
+      "AthenaDance:EID_Whirlwind",
+      "AthenaDance:EID_Wiggle",
+      "AthenaDance:EID_Worm",
+      "AthenaDance:EID_CandyDance",
+      "AthenaDance:EID_IndianDance",
+      "AthenaDance:EID_mesmerize",
+      "AthenaDance:EID_TwistEternity",
+      "AthenaDance:EID_SquishyDance",
+      "AthenaDance:EID_Affection",
+      "AthenaDance:EID_TwistWasp_T2I4J",
+      "AthenaDance:EID_JulyBooks",
+      "AthenaDance:EID_IndigoApple",
+      "AthenaDance:EID_Bewilder",
+      "AthenaDance:EID_GasStation_104FQ",
+      "AthenaDance:EID_HeavyRoarDance",
+      "AthenaDance:EID_TwistDaytona",
+      "AthenaDance:EID_Cyclone",
+      "AthenaDance:EID_Comrade_6O5AK",
+      "AthenaDance:EID_Feral",
+      "AthenaDance:EID_HotPink",
+      "AthenaDance:EID_Canine",
+      "AthenaDance:EID_Goodbye",
+      "AthenaDance:EID_Celebration",
+      "AthenaDance:EID_StepBreakdance",
+      "AthenaDance:EID_SmokeBombFail",
+      "AthenaDance:EID_PopLock",
+      "AthenaDance:EID_BreakfastCoffeeDance",
+      "AthenaDance:EID_Pump",
+      "AthenaDance:EID_WristFlick",
+      "AthenaDance:EID_CrackshotDance",
+      "AthenaDance:EID_WaveDance",
+      "AthenaDance:EID_GetFunky",
+      "AthenaDance:EID_Jammin",
+      "AthenaDance:EID_HeadShake",
+      "AthenaDance:EID_Accolades",
+      "AthenaDance:EID_ArmUpDance",
+      "AthenaDance:EID_QuickSweeper",
+      "AthenaDance:EID_GlowstickDance",
+      "AthenaDance:EID_LazyShuffle",
+      "AthenaDance:EID_CoolRobot",
+      "AthenaDance:EID_Shaolin",
+      "AthenaDance:EID_IceKing",
+      "AthenaDance:EID_JazzDance",
+      "AthenaDance:EID_FearlessFlight",
+      "AthenaDance:EID_Zombie",
+      "AthenaDance:EID_KungFuSalute",
+      "AthenaDance:EID_Salute",
+      "AthenaDance:EID_KissKiss",
+      "AthenaDance:EID_AcrobaticSuperhero",
+      "AthenaDance:EID_Laugh",
+      "AthenaDance:EID_HipHop01",
+      "AthenaDance:EID_StringDance"
+    ],
+    "archived": []
+  }
+}
